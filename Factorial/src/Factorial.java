@@ -16,5 +16,5 @@ public class Factorial {
 		}
 		System.out.println("The answer: " + factorial);
 	}
-
+ 
 }
