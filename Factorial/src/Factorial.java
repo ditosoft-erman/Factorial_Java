@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Factorial {
 
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);  
 		
 		int number;
 		int factorial = 1;
